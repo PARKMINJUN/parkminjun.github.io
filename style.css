@@ -1,0 +1,29 @@
+#div_root{
+    margin: auto;
+    width: 800px;
+}
+#div_top{
+    width: 100%;
+    height: 311px;
+    background-image: url("./top.png");
+    background-position: center;
+    background-size: 100% 100%;
+}
+
+#div_con{
+    width: 80%;
+    height: 300px;
+    text-align: center;
+    background-color: aliceblue;
+    float: left;
+}
+#div_bottom{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    background-color: 
+    clear: both;
+}
+*{
+    background-color: black;
+}
